@@ -5,7 +5,7 @@ If you meet any problems when going through this tutorial, please feel free to a
 
 ### First Experiment
 
-We provide a recipe `example/librispeech/s0/run.sh` on librispeech data.
+We provide a recipe `examples/librispeech/s0/run.sh` on librispeech data.
 
 The recipe is simple and we suggest you run each stage one by one manually and check the result to understand the whole process.
 
